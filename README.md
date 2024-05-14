@@ -11,3 +11,6 @@
 
 # Site da tela de login:
     https://washingmg.github.io/Pages/Tela-Login/
+
+# Site da hora do dia:
+    https://washingmg.github.io/Pages/Hora-do-dia/
