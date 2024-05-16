@@ -14,3 +14,6 @@
 
 # Site da hora do dia:
     https://washingmg.github.io/Pages/Hora-do-dia/
+
+# Site de verificação de idade:
+    https://washingmg.github.io/Pages/Verificador-de-idade/
